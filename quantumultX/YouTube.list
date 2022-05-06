@@ -1,14 +1,6 @@
 # NAME: YouTube
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:15
-# USER-AGENT: 3
-# HOST-SUFFIX: 172
-# HOST: 2
-# HOST-KEYWORD: 1
-# IP-CIDR: 2
-# IP6-CIDR: 1
-# TOTAL: 181
+# AUTHOR: tugepaopao
+# UPDATED: 2022-05-06 16:45:150
 HOST,youtubei.googleapis.com,YouTube
 HOST,yt3.ggpht.com,YouTube
 HOST-SUFFIX,ggpht.cn,YouTube
