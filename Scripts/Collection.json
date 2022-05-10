@@ -9,7 +9,7 @@
         "event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system, enabled=true",
         "event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/nf_ytb_ui-check.js, tag=YouTube/Netflix 解锁查询, img-url=checkmark.seal.system, enabled=true",
         "event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=location.fill.viewfinder.system",
-        "25 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=提醒签到收能量, img-url=https://qxnav.com/rules/QuantumultX/img/Alipay.png, enabled=true",
+        "30 7 * * * https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/Task/Alipay.js, tag=提醒签到收能量, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/icon/Alipay01.png, enabled=true",
         "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://qxnav.com/rules/QuantumultX/img/didi.png, enabled=true",
         "40 * * * * * https://raw.githubusercontent.com/xl2101200/-/main/wgc.js, tag=WGC, img-url=https://qxnav.com/rules/QuantumultX/img/wgc.png, enabled=true",
         "5 * * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/gxrcw.png, enabled=true",
