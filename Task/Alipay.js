@@ -21,7 +21,7 @@ let delay = function(s){
 }
 
 delay().then(function(){
-    $.notify("支付宝", "", "收能量啦", mayi)
+    $.notify("支付宝", "", "豪崽子，快点来收能量啦", mayi)
 }).finally(() => $done())
 
 function compatibility() {
