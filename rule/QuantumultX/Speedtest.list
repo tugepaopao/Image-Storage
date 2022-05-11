@@ -1,0 +1,9 @@
+# NAME: Speedtest
+# AUTHOR: tugepaopao
+# UPDATED: 2022-05-11 08:10:25
+HOST-SUFFIX,fast.com,Speedtest
+HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,speed.cloudflare.com,Speedtest
+HOST-SUFFIX,speed.dler.io,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
+USER-AGENT,SpeedTest*,Speedtest
