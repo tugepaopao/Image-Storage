@@ -10,8 +10,7 @@
 *******************************
 [rewrite_local]
 # > JavDB解锁会员
-^https?:\/\/(shukego|yiliang8888)\.com\/api\/v1\/movies\/.*\/play url script-request-header https://raw.githubusercontent.com/yqc007/QuantumultX/master/JavDBCrack.js
-
+^https?:\/\/(shukego|yiliang8888)\.com\/api\/v1\/movies\/.*\/play url script-request-header https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/rewrite/JavDBCrack.js
 [mitm] 
 hostname = shukego.com, yiliang8888.com
 
