@@ -6,7 +6,7 @@
 *******************************
 [rewrite_local]
 # > 彩云天气解锁超级会员
-https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/githubdulong/Script/master/cytq.js
+^https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) url script-request-header https://raw.githubusercontent.com/githubdulong/Script/master/cytq.js
 [mitm] 
 hostname = caiyunapp.com
 *******************************/
